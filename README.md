@@ -1,0 +1,2 @@
+# ghr_Lead_Scoring_Logistic_Regression
+ With 40 predictor variables we need to predict whether a particular lead will be tagged as a hot lead or a cold lead. In marketing terminology, this is referred to as lead conversion respectively. A hot lead is a lead who has been associated with a higher probability to convert as a sale and cold lead has been associated with a lower probability to convert as a sale.
